@@ -62,7 +62,6 @@ git clone https://github.com/Avio-dels/Chat-App.git
 
 * Open multiple browsers/tabs to test chat in real-time
 * Type your message and hit **Send**
-* (Optional) Enhance with emojis, notifications, or file sharing
 
 ---
 
