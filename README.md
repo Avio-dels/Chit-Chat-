@@ -1,6 +1,6 @@
 # 💬 ChatApp
 
-A **real-time chat application** built with **PHP, MySQL, HTML, CSS & JavaScript**, ready to run locally using **XAMPP**.  
+A **real-time chat application** built with **PHP, MySQL, CSS & JavaScript**, ready to run locally using **XAMPP**.  
 Communicate instantly with a simple, user-friendly interface! 🚀
 
 ---
