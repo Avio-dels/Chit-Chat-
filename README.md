@@ -17,7 +17,7 @@ Communicate instantly with a simple, user-friendly interface! 🚀
 
 ## 🛠 Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:**CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
 - **Server:** Apache (via XAMPP)  
