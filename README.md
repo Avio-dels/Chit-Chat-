@@ -84,9 +84,9 @@ This project is licensed under **MIT License**
 ## 📸 Screenshots
 
 ![ChatApp Screenshot](javascript/Screenshot%202025-10-11%20162807.png)
-![ChatApp Screenshot](javascript/Screenshot%2025-10-11%162840.png)
-![ChatApp Screenshot](javascript/Screenshot%2025-10-11%162855.png)
-![ChatApp Screenshot](javascript/Screenshot%2025-10-11%162912.png)
+![ChatApp Screenshot](javascript/Screenshot%202025-10-11%20162840.png)
+![ChatApp Screenshot](javascript/Screenshot%202025-10-11%20162855.png)
+![ChatApp Screenshot](javascript/Screenshot%202025-10-11%20162912.png)
 
 ---
 
