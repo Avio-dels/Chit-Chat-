@@ -94,5 +94,3 @@ This project is licensed under **MIT License**
 
 Questions or feedback? Reach me on GitHub: [@Avio-dels](https://github.com/Avio-dels)
 
-Do you want me to do that next?
-```
