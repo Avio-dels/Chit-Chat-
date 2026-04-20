@@ -71,7 +71,7 @@ git clone https://github.com/Avio-dels/Chat-App.git
 2. Create a branch: `git checkout -b feature-name`
 3. Make changes & commit: `git commit -m "Add feature"`
 4. Push: `git push origin feature-name`
-5. Open a Pull Request ✨
+5. Open a Pull Request 
 
 ---
 
